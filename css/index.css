@@ -1,0 +1,17 @@
+.container {
+  background-color: red;
+  height: 200px;
+  width: 400px;
+  color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; }
+
+.container2 {
+  background-color: black;
+  height: 200px;
+  width: 400px;
+  color: white;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px; }
